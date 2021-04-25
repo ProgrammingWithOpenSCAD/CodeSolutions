@@ -1,0 +1,1 @@
+rotate_extrude(angle=180) translate([10, 0]) circle(5);

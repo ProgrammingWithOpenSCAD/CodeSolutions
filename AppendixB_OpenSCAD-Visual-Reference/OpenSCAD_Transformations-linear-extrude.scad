@@ -1,0 +1,1 @@
+linear_extrude(height=10) polygon([[0,0],[10,0],[10,10],[5,10]]);//extruded polygon
