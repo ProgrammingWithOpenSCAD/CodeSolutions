@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 621.87116 176.15521"
+   height="49.714916mm"
+   width="175.50586mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-7.146816,-537.00067)"
+     id="layer1">
+    <g
+       id="g4353">
+      <g
+         id="g4315">
+        <ellipse
+           transform="scale(1,-1)"
+           ry="61.162197"
+           rx="63.45578"
+           cy="-600.08948"
+           cx="72.529205"
+           id="path4136-1-5"
+           style="fill:#fdf960;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           transform="scale(1,-1)"
+           ry="61.162197"
+           rx="63.45578"
+           cy="-600.08948"
+           cx="116.10727"
+           id="path4136-9-4-2"
+           style="fill:#fdf960;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path4136-0-4"
+           d="m 94.361201,542.71277 a 63.45578,61.162197 0 0 0 -41.70899,57.37696 63.45578,61.162197 0 0 0 41.6211,57.37694 63.45578,61.162197 0 0 0 41.710939,-57.37694 63.45578,61.162197 0 0 0 -41.623049,-57.37696 z"
+           style="fill:#fdf960;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="94.298653"
+         y="712.53088"
+         id="text4330"><tspan
+           id="tspan4332"
+           x="94.298653"
+           y="712.53088"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">union</tspan></text>
+    </g>
+    <g
+       transform="translate(24.490448,0)"
+       id="g4361">
+      <path
+         style="fill:#fdf960;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 293.63497,542.71277 a 63.45578,61.162197 0 0 0 -41.70899,57.37696 63.45578,61.162197 0 0 0 41.6211,57.37695 63.45578,61.162197 0 0 0 41.71094,-57.37695 63.45578,61.162197 0 0 0 -41.62305,-57.37696 z"
+         id="path4136-0" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4136-1"
+         cx="271.80298"
+         cy="-600.08948"
+         rx="63.45578"
+         ry="61.162197"
+         transform="scale(1,-1)" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4136-9-4"
+         cx="315.38104"
+         cy="-600.08948"
+         rx="63.45578"
+         ry="61.162197"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="293.18179"
+         y="712.60901"
+         id="text4334"><tspan
+           id="tspan4336"
+           x="293.18179"
+           y="712.60901"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">intersection</tspan></text>
+    </g>
+    <g
+       id="g4342">
+      <g
+         id="g4325"
+         transform="translate(75.937524,-3.4090576)">
+        <ellipse
+           transform="scale(1,-1)"
+           ry="61.162197"
+           rx="63.45578"
+           cy="-603.49854"
+           cx="487.69818"
+           id="path4136-9-4-2-8"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           transform="scale(1,-1)"
+           ry="61.162197"
+           rx="63.45578"
+           cy="-603.49854"
+           cx="444.12012"
+           id="path4136-1-5-5"
+           style="fill:#fdf960;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path4136-0-4-0"
+           d="m 465.9521,546.12186 a 63.45578,61.162197 0 0 0 -41.70899,57.37696 63.45578,61.162197 0 0 0 41.6211,57.37694 63.45578,61.162197 0 0 0 41.71094,-57.37694 63.45578,61.162197 0 0 0 -41.62305,-57.37696 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="542.10052"
+         y="712.60901"
+         id="text4338"><tspan
+           id="tspan4340"
+           x="542.10052"
+           y="712.60901"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">difference</tspan></text>
+    </g>
+  </g>
+</svg>
