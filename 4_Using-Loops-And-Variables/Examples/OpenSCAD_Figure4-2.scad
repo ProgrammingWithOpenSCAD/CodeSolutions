@@ -1,0 +1,10 @@
+translate([10, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([20, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([30, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([40, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([50, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([60, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([70, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([80, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([90, 30, 0]) cylinder(h=4, r1=4, r2=4);
+translate([100, 30, 0]) cylinder(h=4, r1=4, r2=4);
