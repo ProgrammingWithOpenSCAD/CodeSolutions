@@ -1,0 +1,1 @@
+linear_extrude(height=500, scale=3) import("drawing.dxf");
